@@ -1,6 +1,6 @@
 # Tarea Alfil Ajedrez
 ## Profesor: Andrés Rubio del Río
-## Alumno: Miguel Ángel Capel del Águila
+## Alumno: Miguel Ángel Capel Del Águila
 
 La tarea va a consistir en modelar el movimiento de un peón de ajedrez por el tablero de dicho juego.
 <div align="center">
